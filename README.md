@@ -1,7 +1,7 @@
 # Project 2 - Sodoku Solver
 
 ## Objective
-There are hundreds of sodoku solvers online and most are complete solutions, but I doubt I can learn anything if I don't solve the problem myself. What I'm looking to take away from this project are some problem solving skills and deeper understanding of both recursion and OOP. 
+There are hundreds of sodoku solvers online and most are complete solutions, but I doubt I can learn anything if I don't solve the problem myself. The plan is to start from a blank python script and work my way up to a complete solution iteratively. What I'm looking to take away from this project are some problem solving skills and a deeper understanding of both recursion and OOP. 
 
 ## Method
 So far, I have not seen a single script of a sodoku solver, so I am coming in blind to the actual solution. I intend to solve the problem on my own using the following steps:
