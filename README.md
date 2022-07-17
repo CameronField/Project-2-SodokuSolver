@@ -15,3 +15,5 @@ So far, I have not seen a single script of a sodoku solver, so I am coming in bl
 Each new iteration will be posted as a new file so you can follow along with my progress and give me feedback if you see anything that I could clean up. 
 
 Thanks for checking out my second project!
+
+#### Edit (17 July): Uploaded my first attempt at a solver. See Project 2 - Sodoku Solver V1
